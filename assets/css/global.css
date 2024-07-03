@@ -259,10 +259,16 @@ padding-bottom: 5px;
 
   .row .col-md-7 {
     width: 100%;  }
+
+	
 }
 @media (max-width: 920px) {
   .row  .col-md-5 img  {
     width: none;
+  }
+
+  .home{
+	padding-left: 0rem;
   }
 }
 @media (max-width: 920px) {
