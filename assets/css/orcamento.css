@@ -128,7 +128,7 @@ button {
 
 @media (min-width: 300px) { 
   form {
-    width: 0;
+    width: 70%;
   }
 
  }
