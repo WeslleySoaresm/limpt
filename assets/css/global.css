@@ -166,7 +166,8 @@ img, svg {
 }
 
 #sobre {
-  padding: 80px;
+	padding-left: 2rem ;
+  padding-top: 80px;
 }
 
 #sobre-residencia, #sobre-empresa{
