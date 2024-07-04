@@ -320,7 +320,9 @@ form#form {
     font-size: 16px;
 
   }
-
+ #btn-work {
+	margin-left: 30%;
+ }
   .home {
 	padding-left: 0rem;
   }
